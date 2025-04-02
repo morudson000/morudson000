@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @morudson000
-- 👀 I’m interested in learning the basics of computer programming. 
-- 🌱 I’m currently learning the basics and going through the Odin Project's curriculum
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sonya!
+- 👀 I’m interested in learning about the intersection of libraries and data analytics.
 
 <!---
 morudson000/morudson000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
