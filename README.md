@@ -1,7 +1,8 @@
 👋 Hi, I’m Sonya!
 - ✏️ Currently studying for MLIS at Drexel University
 - 🍜 Hospitality professional working in fine dining
-- 🍒 Academic focuses include database management, data curation, metadata management, recommender systems 
+- 🍒 Academic focuses include database management, data curation, metadata management
+- 🌸 Hobbies include: knitting, hiking, hanging out with my dog! 
 - 🔆 Languages include: Python, SQL, Java, HTML, JavaScript
 
 <!---
