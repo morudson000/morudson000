@@ -1,7 +1,7 @@
 👋 Hi, I’m Sonya!
 - ✏️ Currently studying for MLIS at Drexel University
 - 🍜 Hospitality professional working in fine dining
-- 🍒 Academic focuses include [database management] (https://github.com/topics/sql), [recommender systems] (https://github.com/topics/recommender-systems), [metadata management] (https://github.com/topics/metadata-management)
+- 🍒 Academic focuses include [database management](https://github.com/topics/sql), [recommender systems](https://github.com/topics/recommender-systems), [metadata management](https://github.com/topics/metadata-management)
 - 🌸 Hobbies include: knitting, hiking, hanging out with my dog! 
 - 🔆 Languages include: Python, SQL, Java, HTML, JavaScript
 
